@@ -36,4 +36,5 @@ This project uses an unofficial, undocumented ESPN API endpoint. It could change
 
 ## License
 
-MIT
+I don't fucking care lol
+
